@@ -1,0 +1,4 @@
+﻿Msg 8101, Nível 16, Estado 1, Procedimento InserirMarca, Linha 14 [Linha de Início do Lote 0]
+Um valor explícito para a coluna de identidade na tabela 'Carro' só pode ser especificado quando uma lista de colunas é usada e o valor de IDENTITY_INSERT é ON.
+
+Horário de conclusão: 2021-02-09T20:17:55.3656793-03:00
